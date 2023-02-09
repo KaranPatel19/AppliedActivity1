@@ -1,13 +1,12 @@
-﻿ namespace AppliedActivity1.Services
+﻿
+namespace AndroidAppliedActivity1.Services
 {
-    public class IWebClientService
+    interface IWebClientService
     {
-        public IWebClientService()
-        {
-            Task<string> GetAsync(string uri);
-            Task<string> PostAsync(string uri, string body, string type);
-            Task<string> PostAsync(string uri, string body, string type);
-        }
+        Task<string> GetAsync(string uri);
+        Task<string> PostAsync(string uri, string body, string type);
+        Task<string> PutAsync(string uri, string body, string type);
+
     }
 }
 
