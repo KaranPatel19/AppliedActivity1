@@ -4,7 +4,7 @@ namespace AppliedActivity1.Services
 {
     interface IGOTDataStore<T>
     {
-        Task<IEnumerable<GOT>> GetGOTAsync();
+        Task<IEnumerable<GOT>> GetGOTAsync(int count);
     }
 }
 

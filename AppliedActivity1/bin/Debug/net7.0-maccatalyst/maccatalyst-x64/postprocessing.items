@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>AppliedActivity1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/karanpatel/Desktop/Adanced android development semester 2/AppliedActivity1/AppliedActivity1/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/karanpatel/Documents/GitHub/New/AppliedActivity1/AppliedActivity1/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>AppliedActivity1.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/karanpatel/Desktop/Adanced android development semester 2/AppliedActivity1/AppliedActivity1</SourceProjectPath>
+      <SourceProjectPath>/Users/karanpatel/Documents/GitHub/New/AppliedActivity1/AppliedActivity1</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/karanpatel/Desktop/Adanced android development semester 2/AppliedActivity1/AppliedActivity1</SourceProjectPath>
+      <SourceProjectPath>/Users/karanpatel/Documents/GitHub/New/AppliedActivity1/AppliedActivity1</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{4BE0856B-3230-4EE0-ABCC-5F013CE9F3AF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppliedActivity1 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppliedActivity1/Services/GOTDataStore.cs">
+    <Files>
+      <File FileName="AppliedActivity1/Services/WebClientService.cs" Line="63" Column="6" />
+      <File FileName="AppliedActivity1/Services/IWebClientService.cs" Line="11" Column="69" />
+      <File FileName="AppliedActivity1/Services/IGOTDataStore.cs" Line="7" Column="43" />
+      <File FileName="AppliedActivity1/Services/GOTDataStore.cs" Line="38" Column="60" />
+      <File FileName="AppliedActivity1/Views/MainPage.xaml" Line="11" Column="34" />
+      <File FileName="AppliedActivity1/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="AppliedActivity1/App.xaml" Line="1" Column="1" />
+      <File FileName="AppliedActivity1/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="AppliedActivity1/Models/GOT.cs" Line="13" Column="66" />
+      <File FileName="AppliedActivity1/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="AppliedActivity1/Platforms/Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="AppliedActivity1/Views/MainPage.xaml.cs" Line="25" Column="44" />
+      <File FileName="AppliedActivity1/ViewModels/GOTListViewModel.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppliedActivity1" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="AppliedActivity1" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

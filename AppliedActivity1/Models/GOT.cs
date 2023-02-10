@@ -7,15 +7,14 @@ namespace AppliedActivity1.Models
     {
         public string name{ get; set; }
         public string slug { get; set; }
-        public string house { get; set; }
-        public string character { get; set; }
+        public string sentence { get; set; }
+        
 
-        public GOT(string name, string slug, string house, string character)
+        public GOT(string name, string slug, string sentence)
         {
             this.name = name;
             this.slug = slug;
-            this.house = house;
-            this.character = character;
+            this.sentence = sentence;
         }
         
     }
